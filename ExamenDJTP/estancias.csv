@@ -1,0 +1,16 @@
+CATEGORIA,falseMBRE,Nº ESTRELLAS,HABITACION SENCILLA,HABITACION DOBLE,CAPACIDAD,Nº HABITACIONES,PISCINA,LIMPIEZA,TIPO PENSIÓN
+HOTEL,H. Las Cumbres,3,true,false,1,,,,2
+HOTEL,H. El Herrador,4,false,true,2,,,,2
+HOTEL,H. La Cima,5,true,false,1,,,,1
+HOTEL,H. Cifuentes,4,false,true,2,,,,1
+CASA RURAL,CR Norte,,,,4,2,true,,0
+CASA RURAL,CR Sur,,,,6,3,true,,0
+CASA RURAL,CR Este,,,,6,3,true,,1
+CASA RURAL,CR Oeste,,,,8,4,false,,1
+CASA RURAL,CR Groelandia,,,,6,3,false,,2
+APARTAHOTEL,AH Granada,,,,6,3,,true,1
+APARTAHOTEL,AH Jaén,,,,4,2,,true,0
+APARTAHOTEL,AH Sevilla,,,,6,3,,true,1
+APARTAHOTEL,AH Córdoba,,,,4,2,,true,2
+APARTAHOTEL,AH Melilla,,,,6,3,,false,2
+APARTAHOTEL,AH Ceuta,,,,4,2,,false,1
